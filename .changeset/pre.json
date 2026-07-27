@@ -38,7 +38,8 @@
     "@effect/ai-docgen": "0.0.0",
     "@effect/sql-pglite": "4.0.0-beta.52",
     "@effect/jsdocs": "0.0.0",
-    "@effect/docgen": "4.0.0-beta.101"
+    "@effect/docgen": "4.0.0-beta.101",
+    "@effect/api-diff": "0.0.0"
   },
   "changesets": [
     "add-adaptive-rate-limiter-store",
@@ -172,6 +173,10 @@
     "early-birds-dream",
     "early-donuts-argue",
     "early-peaches-check",
+    "eff-115-sync-scheduler-microtask",
+    "eff-117-hydration-reactivity",
+    "eff-121-http-router-web-handler",
+    "eff-123-openai-compat-unknown-events",
     "eff-51-partitioned-semaphore-interruption",
     "eff-691-default-logger-ordering",
     "eff-693-rpcgroup-handler-deps",
@@ -574,6 +579,7 @@
     "platform-node-shared-barrel",
     "plenty-moons-pull",
     "polite-brooms-tickle",
+    "polite-cameras-rest",
     "polite-pigs-speak",
     "polite-tables-kneel",
     "port-effect-reduce",
@@ -597,6 +603,7 @@
     "quiet-fibers-settle",
     "quiet-files-hunt",
     "quiet-lamps-jam",
+    "quiet-mice-negotiate",
     "quiet-pandas-respond",
     "quiet-radios-wave",
     "quiet-redis-scripts",

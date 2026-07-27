@@ -1,5 +1,12 @@
 # @effect/sql-pglite
 
+## 4.0.0-beta.103
+
+### Patch Changes
+
+- Updated dependencies [[`205ebc7`](https://github.com/Effect-TS/effect/commit/205ebc776062012581e98fced7ced19adfc44ee7), [`ed0ebf8`](https://github.com/Effect-TS/effect/commit/ed0ebf8e5c864d46fed1f232e99c0e680f10a58f), [`a3fd084`](https://github.com/Effect-TS/effect/commit/a3fd08482157bd78b089f77c7b173d54ef68b5cd), [`cc27b19`](https://github.com/Effect-TS/effect/commit/cc27b194b9d13fa3a66ab037e853fca9d41700ff), [`0a532e5`](https://github.com/Effect-TS/effect/commit/0a532e503f165fdea485a5343fc2f420917e8376)]:
+  - effect@4.0.0-beta.103
+
 ## 4.0.0-beta.102
 
 ### Patch Changes
